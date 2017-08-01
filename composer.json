@@ -8,5 +8,11 @@
             "email": "steve.persch@pantheon.io"
         }
     ],
-    "require": {}
+    "require": {},
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    ],
 }
