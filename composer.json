@@ -1,0 +1,12 @@
+{
+    "name": "acme-agency/d8-recommendations",
+    "description": "An example of how a web development agency (or any team managing many Drupal websites) can use a stand-alone Composer package containing just a composer.json to list all of the modules (and themes and other packages) that they like to use on all D8 projects. This repo/package is not meant for use on real sites and the modules listed in composer.json are not meant as a comprehensive starting point. This repo is only meant to be used in demonstrations by the Pantheon Agency and Community team when discussing options for sharing/reusing code amongst development teams.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Steve Persch",
+            "email": "steve.persch@pantheon.io"
+        }
+    ],
+    "require": {}
+}
