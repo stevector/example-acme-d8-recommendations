@@ -9,7 +9,8 @@
         }
     ],
     "require": {
-        "drupal/field_group": "^1.0@RC"
+        "drupal/field_group": "^1.0@RC",
+        "drupal/pathauto": "^1.0"
     },
     "repositories": [
         {
