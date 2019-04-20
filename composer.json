@@ -9,8 +9,9 @@
         }
     ],
     "require": {
-        "drupal/field_group": "^1.0@RC",
-        "drupal/pathauto": "^1.0"
+        "drupal/core": "8.6.15",
+        "webflo/drupal-core-strict": "8.6.15",
+        "drush/drush": "8.1.17"
     },
     "repositories": [
         {
